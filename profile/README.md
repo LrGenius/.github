@@ -6,7 +6,7 @@ Welcome to the LrGenius organization.
 
 ## Current state
 ### LrGeniusAI
-The builds on GitHub **are not yet production-ready**, there are issues with Windows Smartscreen and macOS Gatekeeper, which require manual steps after installation. For additional information see the release note of v2.3.0. **LrGeniusAI** is under active development.
+The builds on GitHub **are not yet production-ready**, there are issues with Windows Smartscreen and macOS Gatekeeper, which require manual steps after installation. For additional information see the release note of v2.4.0. **LrGeniusAI** is under active development.
 ### Features:
 * Generate tags, title, caption, alt-text with AI (Gemini, ChatGPT, Ollama, LM Studio
 * Semantic search based on SigLip2/open_clip (and probably Google VertexAI in the future)
