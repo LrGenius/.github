@@ -18,7 +18,6 @@ LrGeniusAI is our flagship project, moving beyond simple tagging into full-scale
     * **Semantic Search:** Powered by `SigLip2` / `vertexai`. Search your catalog with natural language (e.g., *"Moody forest in the fog"*).
     * **Face Intelligence:** Integrated face detection and recognition with Insightface.
     * **Robust Backend:** Utilizes a dedicated database for lightning-fast metadata and embedding retrieval.
-* **Note:** Current builds may require manual steps for **Windows SmartScreen** and **macOS Gatekeeper**. Please refer to the [v2.4.0 Release Notes](https://github.com/LrGenius/LrGeniusAI/releases/tag/v2.4.0) for installation workarounds.
 
 ---
 
