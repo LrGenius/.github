@@ -17,6 +17,7 @@ LrGeniusAI is our flagship project, moving beyond simple tagging into full-scale
     * **Advanced Metadata:** Auto-generate Tags, Titles, Captions, and Alt-text.
     * **Semantic Search:** Powered by `SigLip2` / `vertexai`. Search your catalog with natural language (e.g., *"Moody forest in the fog"*).
     * **Face Intelligence:** Integrated face detection and recognition with Insightface.
+    * **AI develop:** Use AI to develop your photos in Lightroom.
     * **Robust Backend:** Utilizes a dedicated database for lightning-fast metadata and embedding retrieval.
 
 ---
