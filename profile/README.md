@@ -1,60 +1,56 @@
-# 📸 LrGenius — AI for Photographers, Open & Community-Driven
+# LrGenius — AI for Photographers
 
 Welcome to the **LrGenius** ecosystem. We are bridging the gap between professional photography workflows and state-of-the-art Artificial Intelligence.
 
 ---
 
-## 🛠️ Our Projects
+## Projects
 
-### 🚀 [LrGeniusAI](https://github.com/LrGenius/LrGeniusAI) 
+### LrGeniusAI
 *The next generation of AI integration for Adobe Lightroom Classic.*
 
-LrGeniusAI is our flagship project, moving beyond simple tagging into full-scale semantic understanding and library management.
+**Status:** 🚧 **Heavy Development** (Alpha/Beta - v2.13.0)
 
-* **Status:** 🏗️ Active Development (Alpha/Beta)
-* **Key Features:**
-    * **Multi-Model Support:** Connect to Gemini, ChatGPT, Ollama, or LM Studio.
-    * **Advanced Metadata:** Auto-generate Tags, Titles, Captions, and Alt-text.
-    * **Semantic Search:** Powered by `SigLip2` / `vertexai`. Search your catalog with natural language (e.g., *"Moody forest in the fog"*).
-    * **Face Intelligence:** Integrated face detection and recognition with Insightface.
-    * **AI develop:** Use AI to develop your photos in Lightroom.
-    * **Robust Backend:** Utilizes a dedicated database for lightning-fast metadata and embedding retrieval.
+LrGeniusAI is our primary focus, moving beyond simple tagging into full-scale semantic understanding and advanced library management.
+
+* **AI Develop & Culling:** AI-powered batch editing, dynamic image selection, and develop assistance.
+* **Persistent Background Service:** Robust backend architecture running as a background process on macOS and Windows.
+* **Face Intelligence:** Integrated face detection and recognition powered by Insightface.
+* **Semantic Search:** Natural language search for your catalog (e.g., *"Moody forest in the fog"*).
+* **Multi-Model Support:** Native integration with Google Gemini, ChatGPT, Ollama, and LM Studio.
+* **Open Source:** Licensed under the GNU AGPL v3.
 
 ---
 
-### 📦 [LrGeniusTagAI](https://github.com/LrGenius/LrGeniusTagAI)
+### LrGeniusTagAI
 *The stable, focused tagging solution.*
 
-* **Status:** 🟢 Stable / Legacy (Maintenance Mode)
-* **Key Features:**
-    * Focused strictly on AI-driven metadata generation (Tags, Titles, Captions).
-    * Supports Gemini, ChatGPT, Ollama, and LM Studio.
-* **Current Version:** `v1.8.0` (Ready to use). 
-* **Note:** This version is considered "Legacy" as we shift our primary focus to the more feature-rich **LrGeniusAI**.
+* **Status:** 🟢 Legacy (Maintenance Mode)
+* **Key Features:** Focused strictly on AI-driven metadata generation (Tags, Titles, Captions).
+* **Current Version:** `v1.8.0`
+* **Note:** This version is considered "Legacy" as we shift our focus to the more feature-rich **LrGeniusAI**.
 
 ---
 
-## 🔬 Technology Stack
+## Technology Stack
 
-We believe in flexibility and privacy. Our tools support both **Cloud-based** and **Local** AI processing:
+We believe in flexibility and privacy. Our tools support both Cloud-based and Local AI processing.
 
-| Category | Tech / Models |
+| Category | Technology |
 | :--- | :--- |
 | **Local LLM** | Ollama, LM Studio |
-| **Cloud LLM** | Google Gemini, ChatGPT |
+| **Cloud LLM** | Google Gemini, OpenAI ChatGPT |
 | **Embeddings** | SigLip2, Open-CLIP, Google VertexAI |
 | **Languages** | Lua (Lightroom SDK), Python (Backend) |
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
-We are an open-source, community-driven organization. Whether you are a developer, a photographer with a feature idea, or someone who can help with documentation: **Your PRs and issues are welcome!**
+We are an open-source, community-driven organization. Whether you are a developer, a photographer, or a writer, your contributions are welcome.
 
 * **Website:** [lrgenius.com](https://www.lrgenius.com)
 
 ---
 
-<div align="center">
-  <sub>Built by <b>Bastian Machek</b>, AI and the LrGenius Community.</sub>
-</div>
+Built by Bastian Machek and the LrGenius Community.
