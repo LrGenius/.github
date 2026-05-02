@@ -9,8 +9,7 @@ Welcome to the **LrGenius** ecosystem. We are bridging the gap between professio
 ### LrGeniusAI
 *The next generation of AI integration for Adobe Lightroom Classic.*
 
-**Status:** 🚧 **Heavy Development** (Alpha/Beta - v2.13.0)
-
+**Status:** 🚧 **Heavy Development**
 LrGeniusAI is our primary focus, moving beyond simple tagging into full-scale semantic understanding and advanced library management.
 
 * **AI Develop & Culling:** AI-powered batch editing, dynamic image selection, and develop assistance.
