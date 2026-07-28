@@ -52,4 +52,6 @@ We are an open-source, community-driven organization. Whether you are a develope
 
 ---
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7X2240HF4)
+
 Built by Bastian Machek and the LrGenius Community.
