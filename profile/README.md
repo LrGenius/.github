@@ -40,7 +40,7 @@ We believe in flexibility and privacy. Our tools support both Cloud-based and Lo
 | **Local LLM** | Ollama, LM Studio |
 | **Cloud LLM** | Google Gemini, OpenAI ChatGPT |
 | **Embeddings** | SigLip2, Open-CLIP, Google VertexAI |
-| **Languages** | Lua (Lightroom SDK), Python (Backend) |
+| **Languages** | Lua (Lightroom SDK), Rust (Backend) |
 
 ---
 
