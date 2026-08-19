@@ -28,7 +28,7 @@ LrGeniusAI is our primary focus, moving beyond simple tagging into full-scale se
 
 * **Status:** 🟢 Legacy (Maintenance Mode)
 * **Key Features:** Focused strictly on AI-driven metadata generation (Tags, Titles, Captions).
-* **Current Version:** `v1.8.0`
+* **Current Version:** `v1.9.1`
 * **Note:** This version is considered "Legacy" as we shift our focus to the more feature-rich **LrGeniusAI**.
 
 ---
