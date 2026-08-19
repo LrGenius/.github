@@ -13,9 +13,11 @@ Welcome to the **LrGenius** ecosystem. We are bridging the gap between professio
 LrGeniusAI is our primary focus, moving beyond simple tagging into full-scale semantic understanding and advanced library management.
 
 * **AI Develop & Culling:** AI-powered batch editing, dynamic image selection, and develop assistance.
+* **Built-In LLM providers:** llama-cpp or mlx on macOS.
 * **Persistent Background Service:** Robust backend architecture running as a background process on macOS and Windows.
 * **Face Intelligence:** Integrated face detection and recognition powered by Insightface.
 * **Semantic Search:** Natural language search for your catalog (e.g., *"Moody forest in the fog"*).
+* **Identify species:** Plants, animals, fungi with integrated BioCLIP2 model.
 * **Multi-Model Support:** Native integration with Google Gemini, ChatGPT, Ollama, and LM Studio.
 * **Open Source:** Licensed under the GNU AGPL v3.
 
@@ -37,9 +39,9 @@ We believe in flexibility and privacy. Our tools support both Cloud-based and Lo
 
 | Category | Technology |
 | :--- | :--- |
-| **Local LLM** | Ollama, LM Studio |
+| **Local LLM** | llama-cpp or mlx, alternatively Ollama, LM Studio |
 | **Cloud LLM** | Google Gemini, OpenAI ChatGPT |
-| **Embeddings** | SigLip2, Open-CLIP, Google VertexAI |
+| **Embeddings** | SigLip2, BioCLIP2 |
 | **Languages** | Lua (Lightroom SDK), Rust (Backend) |
 
 ---
